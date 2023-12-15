@@ -1,0 +1,96 @@
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://www.svgbackgrounds.com/wp-content/uploads/2021/05/subtle-prism-triangle-pattern.jpg);
+    font-size: large;
+    color: black;
+
+}
+
+.resume-img{
+    border: 2px solid black;
+    padding: 2px; 
+    width: 25%;
+    position:absolute;
+    top:0;
+    right:0;
+    transform: translate(-0%,0%);
+}
+
+.centerme {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 0 vh;
+    font-size: x-large;
+}
+
+a{
+    color: green;
+
+}
+
+.video-container{
+    text-align: center;
+    width: 100 px;
+}
+
+.tableau-placeholder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    position: absolute;
+}
+
+.flexpic1{
+    float: left;
+    width: 25%;
+    padding: 2px;
+    border: 2px solid black;
+    margin-top: -380px;
+    position: relative;
+
+}
+
+.flexpic2{
+    float: right;
+    width: 25%;
+    padding: 2px;
+    border: 2px solid black;
+    margin-top: -380px;
+    position: relative;
+}
+
+.flex {
+    
+    font-family: 'Comic Sans', Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    border: 5px silver solid;
+    background-color: blue;
+    text-align: center;
+    position: relative;
+
+}
+
+.riz{
+    font-family: 'Comic Sans', Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-style: italic;
+
+    
+}
+
+.graph-title{
+    font-family: 'Comic Sans', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: blue;
+    border: solid silver;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+}
